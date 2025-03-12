@@ -1,2 +1,2 @@
 # cpanel.cetpainfotech.com
-# Subdomain takeover testing 
+ Subdomain takeover testing 
